@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vinodhrathanam
-- 👀 I’m interested in python, java , typescript and javascript
-- 🌱 I’m currently learning Cypress 
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested in GenAI, Creating App, Web Development
+- 🌱 I’m currently learning GenAI, FlutterFlow
+- 💞️ I’m looking to collaborate on python and web/app development projects
 - 📫 How to reach me rathanamvinodh@gmail.com
 
 <!---
